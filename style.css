@@ -13,14 +13,14 @@ body {
   align-items: center;
   min-height: 100vh;
   padding: 15px;
-  background-color: rgb(219, 18, 219);
+  background-color: plum;
 }
 
 .container {
   position: relative;
   max-width: 700px;
   width: 100%;
-  background-color: fuchsia;
+  background-color: plum;
   padding: 20px;
   border-radius: 8px;
   box-shadow: 0 0 15px black;
